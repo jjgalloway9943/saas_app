@@ -45,3 +45,5 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Ignore RVM warnings
+rvm rvmrc warning ignore allGemfiles
